@@ -115,7 +115,7 @@ heading:
   h2_font_color: $compagny_theme_primary_color
   h3_font_color: $compagny_theme_secondary_color
   #line_height: 1.4
-  line_height: 0.5
+  line_height: 0.9
   #margin_top: $vertical_rhythm * 0.4
   #margin_bottom: $vertical_rhythm * 0.9
 title_page:
